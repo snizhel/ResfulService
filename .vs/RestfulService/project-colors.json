@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4a17d2e7-7a47-47c1-9e4f-c7008aad7d4c": {
+      "ProjectGuid": "4a17d2e7-7a47-47c1-9e4f-c7008aad7d4c",
+      "DisplayName": "EmpSite",
+      "ColorIndex": 0
+    },
+    "9f40ae90-3be3-4b71-98a3-1c726e57aa42": {
+      "ProjectGuid": "9f40ae90-3be3-4b71-98a3-1c726e57aa42",
+      "DisplayName": "EmpClient",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

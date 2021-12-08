@@ -1,0 +1,14 @@
+D:\repos\RestfulService\EmpClient\bin\Debug\EmpClient.exe.config
+D:\repos\RestfulService\EmpClient\bin\Debug\EmpClient.exe
+D:\repos\RestfulService\EmpClient\bin\Debug\EmpClient.pdb
+D:\repos\RestfulService\EmpClient\bin\Debug\Newtonsoft.Json.dll
+D:\repos\RestfulService\EmpClient\bin\Debug\Newtonsoft.Json.xml
+D:\repos\RestfulService\EmpClient\obj\Debug\EmpClient.csproj.AssemblyReference.cache
+D:\repos\RestfulService\EmpClient\obj\Debug\EmpClient.csproj.SuggestedBindingRedirects.cache
+D:\repos\RestfulService\EmpClient\obj\Debug\EmpClient.EmpForm.resources
+D:\repos\RestfulService\EmpClient\obj\Debug\EmpClient.Properties.Resources.resources
+D:\repos\RestfulService\EmpClient\obj\Debug\EmpClient.csproj.GenerateResource.cache
+D:\repos\RestfulService\EmpClient\obj\Debug\EmpClient.csproj.CoreCompileInputs.cache
+D:\repos\RestfulService\EmpClient\obj\Debug\EmpClient.csproj.CopyComplete
+D:\repos\RestfulService\EmpClient\obj\Debug\EmpClient.exe
+D:\repos\RestfulService\EmpClient\obj\Debug\EmpClient.pdb
